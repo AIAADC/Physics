@@ -1,4 +1,22 @@
-# Physics
-大学物理资源整理
+<div align="center">
 
-点击[这里](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)，返回大二资源总库。
+# 🔭 大学物理
+
+本仓为 AIAADC 大二课程资料仓，主要整理大学物理课件与复习资料。  
+年级总入口见：[AIA 大二课程资源总仓](https://github.com/AIAADC/Resources-for-sophomore-in-AIA)
+
+</div>
+
+---
+
+## 资料内容
+
+- 大学物理课件：电磁学、波动光学等专题
+- 复习资料：`大学物理复习` 目录
+- 年级总仓中也整理了部分真题与答案
+
+## 使用建议
+
+1. 先按章节回顾概念、公式和物理图像。
+2. 再到年级总仓查看真题，按年份成套练习。
+3. 公式较多的章节建议结合课件图像理解，不要只背结论。
